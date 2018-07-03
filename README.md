@@ -1,2 +1,3 @@
-# ant
-home projects repo
+# Hello world
+
+It's my first project in Github
